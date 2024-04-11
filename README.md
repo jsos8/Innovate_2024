@@ -31,6 +31,8 @@ In the GAN demo notebook, a GAN is trained to generate synthetic tabular data. T
 
 In the bert demo notebook a BERT model is used to classify text. BERT is an encoder only model based on the transformer architecture that can be used to learn the interrelatedness of words in a sequence. The last layer in the BERT model that predicts words is removed and replaced with a layer that can be used for classification. The BERT base and large models are pre-trained on 3.3B tokens, so there is already some level of language understanding in the pre-trained model. The BERT model can then be adapted to a given task by fine-tuning it with a desired dataset. In this notebook, the BERT model is fine-tuned on data containing real text messages and spam text messages so that the model can detect whether incoming text messages are real or spam. The fine-tuning is achieved by training the model on the supervised task with a gentle learning rate. 
 
+**NOTE:** BERT model table cannot be provided via GitHub repository. Code allows users to train the model but a GPU is strongly recommended to replicate this demo.
+
 ## No Programming End-to-End Computer Vision Model Development
 
 
