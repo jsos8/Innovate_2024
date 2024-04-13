@@ -1,9 +1,11 @@
 # Innovate 2024
+
+<div align = "center">
+  <img src = "./innovate_2024_logo.PNG"/>
+</div> 
+
 ## Overview
 
-![innovate_2024_logo](https://github.com/jsos8/Innovate_2024/assets/65917771/c411e506-00d1-4378-b19d-ffe86c1b7fed)
-
-  
 This repository contains materials created for, and presented at, SAS Innovate 2024. Materials for all of the sessions presented can be found in the corresponding folders. Information for all of the presented sessions can be found below.
 
 ## Getting Started with Computer Vision
