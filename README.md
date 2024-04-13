@@ -1,7 +1,7 @@
 # Innovate 2024
 ## Overview
 
-<add Innovate image here>
+![alt text] (https://github.com/jsos8/Innovate_2024/blob/main/innovate_2024_logo.PNG "SAS Innovate 2024")
   
 This repository contains materials created for, and presented at, SAS Innovate 2024. Materials for all of the sessions presented can be found in the corresponding folders. Information for all of the presented sessions can be found below.
 
